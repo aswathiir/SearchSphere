@@ -1,7 +1,7 @@
 
 # Knowledge Explorer - Unified Technical Search Platform
 
-![Project Banner](https://via.placeholder.com/1200x400/0071e3/FFFFFF?text=Knowledge+Explorer+-+Multi-Source+Technical+Intelligence)
+![Project Banner]((https://github.com/aswathiir/SearchSphere/blame/main/module.mp4))
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -346,9 +346,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For technical inquiries or support:
-- **Email**: [dev@knowledge-explorer.com](mailto:aswathiranjikk@gmail.com)
+- **Email**: [aswathiranjikk@gmail.com](mailto:aswathiranjikk@gmail.com)
 - **Issues**: [GitHub Issues](https://github.com/aswathiir/SearchSphere/issues)
-- **LinkedIn**: [@KnowExplorer](https://linkedin.com/in/aswathi-ranjith/)
+- **LinkedIn**: [@aswathi-ranjith](https://linkedin.com/in/aswathi-ranjith/)
 
 ---
 
